@@ -1,7 +1,7 @@
 # Professional Portfolio (HTML5)
 
 Student Information
-- **Name:** AINOMUGISHA FLAVIAN 2025/BIT/035
+- **Name:** AINOMUGISHA FLAVIA 2025/BIT/035
 - **Course:** BIT1203 Web Design and Development
 
    Project Description
